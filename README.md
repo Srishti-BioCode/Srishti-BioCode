@@ -10,8 +10,8 @@ Welcome to my GitHub! I am a passionate student explorer bridging the gap betwee
 ### 👩‍🏫 Professional Experience
 - **Java Educator:** Teaching core programming and logic building to students, turning complex syntax into simple stories.
 
-### 🛡️ Featured Project: "Silent Signal"
-I am currently developing **Silent Signal** — a tech-driven safety solution for women that uses discreet triggers (physiological or sensor-based) to send emergency alerts. 
+### 🛡️ Featured Project: "The Panic Rhythm(pulse-motion fusion)"
+I am currently developing ab bio analytical safety system **Panic Rhythm** — that bridges Human Physiology and Data Science. Instead of manual triggers, it uses smartphone sensors to detect micro-tremors and irregular gait patterns caused by adrenaline-induced stress. Built with Java to provide a discreet, autonomous emergency alert system for women's safety.
 
 ### 🛠 My Toolkit
 - **Languages:** Java (Core & Advanced), Python (Data Analysis).
