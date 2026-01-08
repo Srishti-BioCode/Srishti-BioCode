@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=009ACD&height=200&section=header&text=Srishti%20|%20Bio-Tech%20Explorer&fontSize=50&animation=fadeIn" />
-</p>
+# 🧬 Srishti | Bio-Tech & Data Analytics Explorer 💻
+---
+### 🎓 IIT Patna (BS-MS) | 🌿 Lucknow University (BSc Biology)
+[<img src="https://img.shields.io/badge/IIT_Patna-BS--MS_in_CS_%26_Data_Analytics-blue?style=for-the-badge">](https://www.iitp.ac.in/)
+[<img src="https://img.shields.io/badge/Lucknow_University-BSc_Biology-green?style=for-the-badge">](https://www.lkouniv.ac.in/)
+[<img src="https://img.shields.io/badge/Java_Educator-Expert-orange?style=for-the-badge">](#)
 # 🧬 Hello, I'm Srishti! | Code + Life Sciences 💻
 
 Welcome to my GitHub! I am a passionate student explorer bridging the gap between biological insights and computational power.
