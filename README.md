@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🧬 Hello, I'm Srishti! | Code + Life Sciences 💻
 
-<!--
-**Srishti-BioCode/Srishti-BioCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I am a passionate student explorer bridging the gap between biological insights and computational power.
 
-Here are some ideas to get you started:
+### 🎓 Who I Am
+- **IIT Patna:** Pursuing BS-MS in Computer Science & Data Analytics.
+- **Lucknow University:** Pursuing BSc in Biology (Zoology, Botany, Geology).
+- **Academic Foundation:** 89.75% in 12th Grade, 93.8% in 10th Grade from ICSE board.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍🏫 Professional Experience
+- **Java Educator:** Teaching core programming and logic building to students, turning complex syntax into simple stories.
+
+### 🛡️ Featured Project: "Silent Signal"
+I am currently developing **Silent Signal** — a tech-driven safety solution for women that uses discreet triggers (physiological or sensor-based) to send emergency alerts. 
+
+### 🛠 My Toolkit
+- **Languages:** Java (Core & Advanced), Python (Data Analysis).
+- **Fields:** Bio-Informatics, Data Analytics, Health-Tech.
+- **Themes:** Women's Safety, Social Impact, Education.
+
+---
+
+### 📬 Connect with me:
+- **Project Goal:** Looking to collaborate on Bio-Tech or Social Welfare projects.
+
+*"Using Data to understand Life, and Code to protect it."*
