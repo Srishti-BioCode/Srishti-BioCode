@@ -1,4 +1,6 @@
-![Srishti Banner](https://capsule-render.vercel.app/render?type=waving&color=009ACD&height=200&section=header&text=Srishti%20|%20Bio-Tech%20Explorer&fontSize=50&animation=fadeIn&fontAlignY=38)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=009ACD&height=200&section=header&text=Srishti%20|%20Bio-Tech%20Explorer&fontSize=50&animation=fadeIn" />
+</p>
 # 🧬 Hello, I'm Srishti! | Code + Life Sciences 💻
 
 Welcome to my GitHub! I am a passionate student explorer bridging the gap between biological insights and computational power.
